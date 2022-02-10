@@ -25,7 +25,7 @@
 		"gsap": "^3.2.6",
 		"infinite-react-carousel": "^1.2.11",
 		"netlify-cms-app": "^2.11.32",
-		"node-sass": "^4.13.1",
+		"node-sass": "^7.0.0",
 		"nprogress": "^0.2.0",
 		"prop-types": "^15.7.2",
 		"react": "^16.12.0",
